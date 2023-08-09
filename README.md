@@ -10,4 +10,6 @@ To me, my growth mindset in learning software development is believing that my c
 
 # Daily notes.
 
-- Or minuses fellow instructions and practice.
+* Unordered list can use asterisks
+- Or minuses take notes 
++ Or pluses watch canvas video
