@@ -15,6 +15,7 @@ To me, my growth mindset in learning software development is believing that my c
 + If they can do you can do it.
 
 *image courtsey from quotesgram.com*. https://quotesgram.com/img/stair-to-success-quotes/12875757/
+
 ![alt text]
 
 
