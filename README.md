@@ -14,7 +14,7 @@ To me, my growth mindset in learning software development is believing that my c
 - practice, Get feedback and comment and fix the issue .
 + If they can do you can do it.
 
-*image courtsey from quotesgram.com*. https://quotesgram.com/img/stair-to-success-quotes/12875757/
+*image courtsey from quotesgram.com*. (https://quotesgram.com/img/stair-to-success-quotes/12875757/)
 
 ![alt text](https://cdn.quotesgram.com/img/73/85/410561126-lnc_stair_success.jpg " growth mindset image")
 
