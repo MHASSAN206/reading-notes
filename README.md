@@ -10,4 +10,4 @@ To me, my growth mindset in learning software development is believing that my c
 
 # Daily notes.
 
-⋅⋅* Unordered sub-list. fellow instructions and practice.
+- Or minuses fellow instructions and practice.
