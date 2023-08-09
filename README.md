@@ -1,8 +1,8 @@
 # Reading-notes
 ## My reading journal for Code fellows TEST...
-## introduction.
+#introduction.
 
-# Hi everyone, my name is mahamud Hassan I live in South Seattle, originally moved from kenya . I had different jobs but now ready to learn coding.
+#Hi everyone, my name is mahamud Hassan I live in South Seattle, originally moved from kenya . I had different jobs but now ready to learn coding.
 
 
 ## Growth Mindset
