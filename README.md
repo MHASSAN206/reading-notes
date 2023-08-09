@@ -16,5 +16,5 @@ To me, my growth mindset in learning software development is believing that my c
 
 *image courtsey from quotesgram.com*. https://quotesgram.com/img/stair-to-success-quotes/12875757/
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://cdn.quotesgram.com/img/73/85/410561126-lnc_stair_success.jpg "Logo Title Text 1")
 
