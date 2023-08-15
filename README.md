@@ -18,7 +18,9 @@ To me, my growth mindset in learning software development is believing that my c
 
 ![alt text](https://cdn.quotesgram.com/img/73/85/410561126-lnc_stair_success.jpg)
 
+
  ## CLASS NOTES
+
  
  [CLASS 01](https://mhassan206.github.io/markdowns/)
  
