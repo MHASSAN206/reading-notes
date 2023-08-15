@@ -20,5 +20,5 @@ To me, my growth mindset in learning software development is believing that my c
  ## CLASS NOTES
  [CLASS 01](https://mhassan206.github.io/markdowns/)
  
- [Class 02](https://mhassan206.github.io/class02/)
+ [CLASS 02](https://mhassan206.github.io/class02/)
  
