@@ -3,6 +3,20 @@
 ### Introduction.
 
 Hi everyone, my name is Mahamud Hassan I live in South Seattle, While I might be new to coding i believe this will bring a strong desire to learn and explore the world of programming and learn something new.
+## Code 102: Intro to Software Development
+## Table of Contents
+
+| Modules  | Reading notes |
+| ------------- | ------------- |
+| [Class 01](https://mhassan206.github.io/markdowns/)  | [Learning Markdown](https://mhassan206.github.io/markdowns/)  |
+| [Class 02](https://mhassan206.github.io/class02/)  | [The Coder's Computer](https://mhassan206.github.io/class02/)  |
+| [Class 03](https://mhassan206.github.io/class03/) | [Revisions and the Cloud](https://mhassan206.github.io/class03/) |
+| Class 04 | Structure web pages with HTML |
+| Class 05 | Design web pages with CSS |
+| Class 06 | Activate web pages with JavaScript |
+| Class 07  | Programming with JavaScript |
+| Class 08 | Operators and Loops |
+| Class 08  | Operators and Loops  |
 
 
 ## Growth Mindset
