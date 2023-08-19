@@ -24,18 +24,11 @@ To me, my growth mindset in learning software development is believing that my c
 
 ## Reminders to keep myself in Growth Mindset
 
-* you still have a time Learn and practice.
-- practice, Get feedback and comment and fix the issue .
+* Learning is a Journey, I see learning as a lifelong journey where there's always something new to discover and master.
+- Adapting to Challenges, I'm adaptable and can pivot when facing challenges, using them as opportunities to learn and innovate.
+- practice, Get feedback and comment and fix the issue 
 + If they can do you can do it.
 
-*image courtsey from quotesgram.com*. [quotesgram.com](https://quotesgram.com/img/stair-to-success-quotes/12875757/).
-
-![alt text](https://cdn.quotesgram.com/img/73/85/410561126-lnc_stair_success.jpg)
-
-## CLASS NOTES
-
- 
- [CLASS 01](https://mhassan206.github.io/markdowns/)
  
  [CLASS 02](https://mhassan206.github.io/class02/)
  
