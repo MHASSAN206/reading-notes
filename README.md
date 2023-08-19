@@ -29,6 +29,3 @@ To me, my growth mindset in learning software development is believing that my c
 - practice, Get feedback and comment and fix the issue 
 + If they can do you can do it.
 
- 
- [CLASS 02](https://mhassan206.github.io/class02/)
- 
