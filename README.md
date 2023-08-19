@@ -11,7 +11,7 @@ Hi everyone, my name is Mahamud Hassan I live in South Seattle, While I might be
 | [Class 01](https://mhassan206.github.io/markdowns/)  | [Learning Markdown](https://mhassan206.github.io/markdowns/)  |
 | [Class 02](https://mhassan206.github.io/class02/)  | [The Coder's Computer](https://mhassan206.github.io/class02/)  |
 | [Class 03](https://mhassan206.github.io/class03/) | [Revisions and the Cloud](https://mhassan206.github.io/class03/) |
-| Class 04 | Structure web pages with HTML |
+| [Class 04](https://mhassan206.github.io/Class04/) | [Structure web pages with HTML](https://mhassan206.github.io/Class04/) |
 | Class 05 | Design web pages with CSS |
 | Class 06 | Activate web pages with JavaScript |
 | Class 07  | Programming with JavaScript |
