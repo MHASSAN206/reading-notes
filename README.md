@@ -15,7 +15,7 @@ Hi everyone, my name is Mahamud Hassan I live in South Seattle, While I might be
 | [Class 05](https://mhassan206.github.io/Class05/) | [Design web pages with CSS](https://mhassan206.github.io/Class05/) |
 | [Class 06](https://mhassan206.github.io/class06/) |[Activate web pages with JavaScript](https://mhassan206.github.io/class06//) |
 | [Class 07](https://mhassan206.github.io/class07/) | [Programming with JavaScript](https://mhassan206.github.io/class07/) |
-| Class 08 | Operators and Loops |
+| [Class 08](https://mhassan206.github.io/class08/) | [Operators and Loops](https://mhassan206.github.io/class08/) |
 | Class 08  | Operators and Loops  |
 
 
